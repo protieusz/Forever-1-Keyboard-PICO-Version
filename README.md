@@ -7,6 +7,8 @@ Part of the design was assisted by policum, the designer for GRIN QUERN which th
 
 Update Aug 30, 2023: PCB from PCBWay has arrived. Keyboard has been assembled except for the case and waiting for the nylon knob print from JLCPCB.
 
+This design will be close source for now.  It might be release in the future.
+
 Partial build Aug 30, 2023
 
 ![IMG_9701](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/71f28311-45e9-43c0-b6f3-2faa3c262a5e)
