@@ -1,7 +1,65 @@
 # Forever-1-Keyboard-PICO-Version
 Forever-1 Inspired by policum's GRIN QUERN 38 keys keyboard powered by PICO Raspberry with giant 60mm rotary encoder with 40mm Cirque trackpad
 
-This pcb design is proudly sponsored by ![PCBWay](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/bbe22106-d7fe-4c39-8834-8d2f6a2a8e67), your solution to all your prototype pcb needs. PCBWay customer service dept are very proactive on making things right if there are issues with the production.  Trackpad support and giant knob for the encoder step files were given by policum.
+This pcb design is proudly sponsored by ![PCBWay](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/bbe22106-d7fe-4c39-8834-8d2f6a2a8e67), your solution to all your prototype pcb needs. PCBWay customer service dept are very proactive on making things right if there are issues with the production.  
+
+Part of the design was assisted by policum, the designer for GRIN QUERN which the Forever-1 is inspired from.
+
+Update Aug 30, 2023: PCB from PCBWay has arrived. Keyboard has been assembled except for the case and waiting for the nylon knob print from JLCPCB.
+
+Partial build Aug 30, 2023
+
+![IMG_9701](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/71f28311-45e9-43c0-b6f3-2faa3c262a5e)
+
+![IMG_9702](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/47e650db-3694-423a-b035-e0b23c276f3f)
+
+![IMG_9697](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/160b28b9-3bcd-4532-bde0-5b68317ecbf7)
+
+![IMG_9696](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/5008541f-fcae-445f-b66a-262ab0bc51fa)
+
+![IMG_9695](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/c69cc2d8-aea8-43c8-85d8-4900a854014d)
+
+![IMG_9694](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/0f77934e-bee8-4f32-aa42-e0cd2d921436)
+
+![IMG_9693](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/bd0196fb-9d91-401c-a2b2-abfd4445de1d)
+
+![IMG_9692](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/d04e846c-b3cf-4099-9a0d-90ee987c84be)
+
+![IMG_9691](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/0809bc34-4ff8-42de-b43b-e433e3ba3a6a)
+
+![IMG_9689](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/0af20236-718a-414f-9ff0-7b544d5d161f)
+
+![IMG_9688](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/44fc5fa2-e1ab-4227-a60c-2890d5980911)
+
+![IMG_9687](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/512ddf9b-49e6-4c19-b131-34ad7d3d9f67)
+
+![IMG_9686](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/fedf821d-7c73-4aa0-8813-cb529417d497)
+
+![IMG_9685](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/32a0a3f9-248d-466a-bff2-5f50c5991bd6)
+
+![IMG_9683](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/ac169077-12fc-4083-8239-edb45cd8562a)
+
+![IMG_9678](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/d2b7fbf3-502f-4766-a8df-888e7cb3c552)
+
+![IMG_9677](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/d42cf4d8-323e-4ae9-bba4-de267062700f)
+
+![IMG_9676](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/d82a1d2d-db6c-459d-8be6-945d69120c99)
+
+![IMG_9675](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/e4ca2135-df32-4760-a6bb-094b5e748438)
+
+![IMG_9674](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/7a4076bf-5736-4478-8591-1dd55df10901)
+
+![IMG_9673](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/3566c8a6-29b6-4ffb-9c16-f2757917b6a4)
+
+![IMG_9666](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/8df1f2d9-b01a-4420-8ce1-8940d66548f1)
+
+![IMG_9665](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/302778f2-713c-44e9-981a-40f5b7c2b01b)
+
+![IMG_9664](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/59792601-6985-41de-9520-2b1a6f4bea71)
+
+![IMG_9662](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/433c11f5-fbc5-4762-9502-d11fd6184a68)
+
+![IMG_9663](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/5947d6cb-84a7-405d-bcea-f962b781c053)
 
 PCB is currently is in print as of Aug 21, 2023.  Build pictures coming soon.
 
