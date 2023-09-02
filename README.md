@@ -9,6 +9,25 @@ Update Aug 30, 2023: PCB from PCBWay has arrived. Keyboard has been assembled ex
 
 This design will be close source for now.  It might be release in the future.
 
+Final Build Sept 1, 2023
+
+![IMG_9729](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/0f3dc4a6-d62f-4b49-b8b0-389be746e00b)
+
+![IMG_9725](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/826e1fa5-4984-4240-95ee-7ade6ee0b6c7)
+
+![IMG_9732](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/c9149a96-d481-490e-a3dc-ec56659a9e12)
+
+![IMG_9733](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/d938a921-f717-4f01-b95b-2cf754d4aed1)
+
+![IMG_9734](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/3f418223-6b55-49c3-bdbc-5faa6cfb922f)
+
+![IMG_9735](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/4b0bae30-6f75-4957-9cda-27b7ca43b98d)
+
+![IMG_9737](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/fc8e99d6-76d0-43cf-b44d-c95ebcc3b086)
+
+![IMG_9750](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/9b84f822-857a-4bdd-8d5e-58f9a97157b7)
+
+
 Partial build Aug 30, 2023
 
 ![IMG_9701](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/71f28311-45e9-43c0-b6f3-2faa3c262a5e)
