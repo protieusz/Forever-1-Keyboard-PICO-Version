@@ -5,7 +5,7 @@ This pcb design is proudly sponsored by ![PCBWay](https://github.com/protieusz/F
 
 Part of the design was assisted by policum, the designer for GRIN QUERN which the Forever-1 is inspired from.
 
-Update Aug 30, 2023: PCB from PCBWay has arrived. Keyboard has been assembled except for the case and waiting for the nylon knob print from JLCPCB.
+Update Aug 30, 2023: PCB from PCBWay has arrived. Keyboard has been assembled except for the case and waiting for the nylon knob print.
 
 This design will be close source for now.  It might be release in the future.
 
