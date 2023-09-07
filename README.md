@@ -1,7 +1,7 @@
 # Forever-1-Keyboard-PICO-Version
 Forever-1 Inspired by policum's GRIN QUERN 38 keys keyboard powered by PICO Raspberry with giant 60mm rotary encoder with 40mm Cirque trackpad
 
-Got featured on [KBD News](https://kbd.news/FOREVER-1-2107.html)
+Got featured on [Keyboard Builder's Digest (KBD News)](https://kbd.news/FOREVER-1-2107.html)
 
 This pcb design is proudly sponsored by ![PCBWay](https://github.com/protieusz/Forever-1-Keyboard-PICO-Version/assets/118025702/bbe22106-d7fe-4c39-8834-8d2f6a2a8e67), your solution to all your prototype pcb needs. PCBWay customer service dept are very proactive on making things right if there are issues with the production.  
 
