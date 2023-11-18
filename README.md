@@ -7,7 +7,8 @@ This pcb design is proudly sponsored by ![PCBWay](https://github.com/protieusz/F
 
 Part of the design was assisted by policum, the designer for GRIN QUERN which the Forever-1 is inspired from.
 
-Update Nov 18, 2023: The gerber production files have been uploaded. Print at your own risk. Lots of advance soldering technique is required. No support will be given.
+**Update Nov 18, 2023:** The gerber production files have been uploaded. Print at your own risk. Lots of advance soldering technique is required. No support will be given.
+BOM list is inside the build guide excel file along with the links.
 
 Update Aug 30, 2023: PCB from PCBWay has arrived. Keyboard has been assembled except for the case and waiting for the nylon knob print.
 
